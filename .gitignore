@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+.java-version
+.mypy_cache
+.nvmrc
+.vscode
+.python-version
+.scannerwork
+*.code-workspace
+!project.code-workspace
+java-browserstack
+Dockerfile.effective
+meta.json
+.version
+*lambda*
